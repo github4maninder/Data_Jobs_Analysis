@@ -25,6 +25,9 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Tableau Desktop and Tableau Public** Data visualisation and Data-storytelling.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
+# ERD
+![ERD](assets/ERD.png)
+
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
@@ -57,9 +60,11 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](assets/1_top_paying_jobs.png)
+*Bar graph visualizing is bulit using Tableau*
 
 ![Top 10 Paying Data Analyst Jobs Tableau Dashboard](assets/viz1Tableau.png)
-Check out the [Top 10 Paying Data Analyst Jobs](https://public.tableau.com/app/profile/pop.epi/viz/Top10PayingDataAnalystJobs/Dashboard1) on Tableau Public for more insights.
+*View of the dashboard on Tableau website*
+Check out the [Top 10 Paying Data Analyst Jobs](https://public.tableau.com/app/profile/pop.epi/viz/Top10PayingDataAnalystJobs/Dashboard1) dashboard on Tableau Public for more insights.
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -98,7 +103,11 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
 ![Top Paying Skills](assets/2_top_paying_roles_skills.png)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing is bulit using Tableau*
+
+![Top 10 Skills for Data Analyst Jobs Tableau Dashboard](assets/viz1Tableau.png)
+*View of the dashboard on Tableau website*
+Check out the [Top 10 Skills for Data Analyst Jobs](https://public.tableau.com/app/profile/pop.epi/viz/TopSkillsforDataAnalystJobs/Sheet6) dashboard on Tableau Public for more insights.
 
 ### 3. In-Demand Skills for Data Analysts
 
