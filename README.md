@@ -143,7 +143,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 
 *Table of the demand for the top 5 skills in data analyst job postings*
 
-![in demand Skills](assets/viz3.png)
+![in demand Skills](assets/Viz3.png)
 *Bar graph visualizing is bulit using Tableau*
 *View of the dashboard on Tableau website*
 - Check out the [Most in demand Skills for Data Analyst Jobs](https://public.tableau.com/app/profile/pop.epi/viz/MostInDemandSkillsDataAnalystJobs/Sheet7) dashboard on Tableau Public for more insights.
