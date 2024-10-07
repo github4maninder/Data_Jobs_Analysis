@@ -57,7 +57,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
 ![Top Paying Roles](assets/1_top_paying_jobs.png)
 
-![Top Paying Roles] Tableau Dashboard - https://public.tableau.com/views/Top10PayingDataAnalystJobs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+![Top 10 Paying Data Analyst Jobs Tableau Dashboard](assets/viz1Tableau.png)
+![Top Paying Roles] Tableau Dashboard click the link
+- https://public.tableau.com/views/Top10PayingDataAnalystJobs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
