@@ -22,6 +22,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
+- **Tableau Desktop and Tableau Public** Data visualisation and Data-storytelling.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
@@ -58,8 +59,8 @@ Here's the breakdown of the top data analyst jobs in 2023:
 ![Top Paying Roles](assets/1_top_paying_jobs.png)
 
 ![Top 10 Paying Data Analyst Jobs Tableau Dashboard](assets/viz1Tableau.png)
-![Top Paying Roles] Tableau Dashboard click the link
-- https://public.tableau.com/views/Top10PayingDataAnalystJobs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+![Top Paying Roles](https://public.tableau.com/views/Top10PayingDataAnalystJobs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
